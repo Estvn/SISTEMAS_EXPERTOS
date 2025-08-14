@@ -1,0 +1,110 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/24.7.17 Chrome/128.0.6613.36 Electron/32.0.1 Safari/537.36" version="24.7.17">
+  <diagram name="Página-1" id="XazFdlBHkPm9L1oJd0ow">
+    <mxGraphModel dx="2117" dy="1807" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="syM0QQwry6lKTLaRATjQ-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="140" width="240" height="330" as="geometry" />
+        </mxCell>
+        <mxCell id="syM0QQwry6lKTLaRATjQ-2" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/app_services/App_Services.svg;" vertex="1" parent="1">
+          <mxGeometry x="128" y="250" width="64" height="64" as="geometry" />
+        </mxCell>
+        <mxCell id="syM0QQwry6lKTLaRATjQ-3" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/app_services/App_Service_Plans.svg;" vertex="1" parent="1">
+          <mxGeometry x="50" y="150" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="syM0QQwry6lKTLaRATjQ-4" value="Webserver: Portal" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="105" y="155" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="syM0QQwry6lKTLaRATjQ-6" value="SSR: Frontoffice" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="109" y="320" width="102" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="syM0QQwry6lKTLaRATjQ-7" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="140" width="240" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="syM0QQwry6lKTLaRATjQ-8" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/app_services/App_Services.svg;" vertex="1" parent="1">
+          <mxGeometry x="568" y="200" width="64" height="64" as="geometry" />
+        </mxCell>
+        <mxCell id="syM0QQwry6lKTLaRATjQ-9" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/app_services/App_Service_Plans.svg;" vertex="1" parent="1">
+          <mxGeometry x="490" y="150" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="syM0QQwry6lKTLaRATjQ-10" value="Webserver: Backoffice" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="545" y="155" width="125" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="syM0QQwry6lKTLaRATjQ-12" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="320" width="240" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="syM0QQwry6lKTLaRATjQ-13" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/app_services/App_Services.svg;" vertex="1" parent="1">
+          <mxGeometry x="568" y="380" width="64" height="64" as="geometry" />
+        </mxCell>
+        <mxCell id="syM0QQwry6lKTLaRATjQ-14" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/app_services/App_Service_Plans.svg;" vertex="1" parent="1">
+          <mxGeometry x="490" y="330" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="syM0QQwry6lKTLaRATjQ-15" value="Restful API" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="545" y="335" width="125" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="syM0QQwry6lKTLaRATjQ-16" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.006;exitY=0.559;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="syM0QQwry6lKTLaRATjQ-13" target="syM0QQwry6lKTLaRATjQ-6">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="330" y="420" as="sourcePoint" />
+            <mxPoint x="380" y="370" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="160" y="416" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="syM0QQwry6lKTLaRATjQ-17" value="" style="dashed=0;outlineConnect=0;html=1;align=center;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;shape=mxgraph.weblogos.chrome" vertex="1" parent="1">
+          <mxGeometry x="-210" y="250" width="74.8" height="75.4" as="geometry" />
+        </mxCell>
+        <mxCell id="syM0QQwry6lKTLaRATjQ-18" value="Client" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-203" y="335" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="syM0QQwry6lKTLaRATjQ-19" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="760" y="140" width="240" height="330" as="geometry" />
+        </mxCell>
+        <mxCell id="syM0QQwry6lKTLaRATjQ-20" value="" style="dashed=0;outlineConnect=0;html=1;align=center;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;shape=mxgraph.weblogos.mongodb" vertex="1" parent="1">
+          <mxGeometry x="860" y="264" width="41.2" height="86.2" as="geometry" />
+        </mxCell>
+        <mxCell id="syM0QQwry6lKTLaRATjQ-21" value="Database Server" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="850" y="200" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="syM0QQwry6lKTLaRATjQ-22" value="" style="endArrow=classic;html=1;rounded=0;entryX=-0.016;entryY=0.547;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="syM0QQwry6lKTLaRATjQ-13">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="630" y="230" as="sourcePoint" />
+            <mxPoint x="680" y="180" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="670" y="230" />
+              <mxPoint x="670" y="415" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="syM0QQwry6lKTLaRATjQ-23" value="" style="dashed=0;outlineConnect=0;html=1;align=center;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;shape=mxgraph.weblogos.chrome" vertex="1" parent="1">
+          <mxGeometry x="562.6" y="-30" width="74.8" height="75.4" as="geometry" />
+        </mxCell>
+        <mxCell id="syM0QQwry6lKTLaRATjQ-24" value="Editores" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="569.6" y="55" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="syM0QQwry6lKTLaRATjQ-25" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.472;entryY=0.006;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="syM0QQwry6lKTLaRATjQ-24" target="syM0QQwry6lKTLaRATjQ-8">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="740" y="80" as="sourcePoint" />
+            <mxPoint x="790" y="30" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="syM0QQwry6lKTLaRATjQ-26" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" target="syM0QQwry6lKTLaRATjQ-17">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="125" y="288" as="sourcePoint" />
+            <mxPoint x="-10" y="320" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="syM0QQwry6lKTLaRATjQ-27" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" target="syM0QQwry6lKTLaRATjQ-20">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="670" y="307" as="sourcePoint" />
+            <mxPoint x="750" y="490" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="syM0QQwry6lKTLaRATjQ-28" value="La aplicación está usando un CMS Headless, y el CMS tiene el Frontoffice y API de forma separada, y usa una base de datos NoSQL porque la data no necesita relaciones robustas" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry y="-22" width="330" height="107" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
